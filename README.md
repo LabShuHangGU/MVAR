@@ -1,4 +1,4 @@
-# MVAR: Visual Autoregressive Modeling with \\ Scale and Spatial Markovian Conditioning
+# MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning
 code is coming soon...
 > Essential to visual generation is efficient modeling of visual data priors.
 %
