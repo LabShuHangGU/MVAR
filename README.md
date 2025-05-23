@@ -26,7 +26,7 @@ MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioni
     <img src="asset/motivation.png" style="border-radius: 5px">
 </p>
 
-2️⃣ **The proposed method enables MVAR generation without relying on KV caching.** 
+2️⃣ **The proposed method enables MVAR generation without relying on KV cache during inference.** 
 
 <p align="center">
     <img src="asset/abs.png" style="border-radius: 5px">
