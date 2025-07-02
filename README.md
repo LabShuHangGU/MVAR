@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="asset/intro_3.png" style="border-radius: 10px">
+<img src="asset/intro_3.png" style="border-radius: 8px">
 
 <h2>
 MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning
